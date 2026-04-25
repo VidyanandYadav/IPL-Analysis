@@ -29,10 +29,4 @@ Try the app online: [Email Spam Classifier App](https://ipl-analysis-wfmsukee62e
 
 ---
 
-## 📝 Installation
 
-1. Clone the repository:
-
-```bash
-git clone https://github.com/your-username/email-spam-classifier.git
-cd email-spam-classifier
