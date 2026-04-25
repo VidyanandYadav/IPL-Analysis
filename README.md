@@ -13,7 +13,7 @@ A simple web app built with **Streamlit** that classifies emails or messages as 
 
 ## 🌐 Live Demo
 
-Try the app online: [Email Spam Classifier App](https://mkg6573-email-spam-classifier-app-r0z58f.streamlit.app/)  
+Try the app online: [Email Spam Classifier App](https://ipl-analysis-wfmsukee62ezjbthtpk73o.streamlit.app/)  
 
 ---
 
